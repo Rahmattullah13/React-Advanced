@@ -1,10 +1,8 @@
-import Starter from '../src/tutorial/02-useEffect/starter/05-cleanup-function';
-// import Final from '../src/tutorial/09-context-api/final/prop-drilling';
+import List  from '../src/tutorial/05-leverage-javascript/starter/List'
 function App() {
   return (
     <div className="container">
-      <Starter />
-      {/* <Final /> */}
+      <List />
     </div>
   );
 }
