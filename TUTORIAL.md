@@ -1799,7 +1799,7 @@ const MultipleInputs = () => {
             onChange={handleChange}
           />
         </div>
-        {/* email */}
+        {/* password */}
         <div className='form-row'>
           <label htmlFor='password' className='form-label'>
             Password

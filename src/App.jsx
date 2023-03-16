@@ -1,8 +1,8 @@
-import List  from '../src/tutorial/05-leverage-javascript/starter/List'
+import Starter from './tutorial/08-custom-hooks/starter/01-toggle';
 function App() {
   return (
     <div className="container">
-      <List />
+      <Starter />
     </div>
   );
 }
